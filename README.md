@@ -1,4 +1,4 @@
-#About
+# About
 The analysis is done on La Liga dataset. 
 LaLiga is the top-tier men's professional football division of the Spanish football league system. 
 It's one of the most celebrated and competitive football leagues globally, known for its passionate fan base, world-class players, and tactical football.
